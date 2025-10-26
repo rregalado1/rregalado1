@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: **Neural Networks**, **Flask**, **React** and **Git/GitHub Automation**
-- 🤖 Interested in: AI, Data Analytics, Web Development, and Scientific Computing
-- 🧠 Building projects with **Python, Pandas, Scikit-Learn, XGBoost, and TensorFlow**
-- 💼 Goal: Become a Machine Learning Engineer or AI Developer
+-  Currently learning: **Neural Networks**, **Flask**, **React** and **Git/GitHub Automation**
+-  Interested in: AI, Data Analytics, Web Development, and Scientific Computing
+-  Building projects with **Python, Pandas, Scikit-Learn, XGBoost, and TensorFlow**
+-  Goal: Become a Machine Learning Engineer or AI Developer
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/ren%C3%A1n-regalado-1260a6258/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ren%C3%A1n-regalado-1260a6258/)
 - 📧 [Email](rregalado@ufl.edu)
 
 ---
