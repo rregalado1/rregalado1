@@ -28,9 +28,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🍷 [Wine Quality Prediction](https://github.com/rregalado1/wine-prediction) | Predicts wine quality with machine learning | Scikit-Learn, Pandas |
-| 🏠 [California Housing](https://github.com/rregalado1/california-housing) | Predicts housing prices using regression models | Linear Regression, XGBoost |
-| 🎮 [Sudoku Game](https://github.com/rregalado1/sudoku-game) | Interactive Sudoku game built with Python and Pygame | Python, Pygame |
+| 🍷 [Wine Quality Prediction](https://github.com/rregalado1/predicting-wine-model) | Predicts wine quality with machine learning | Scikit-Learn, Pandas |
+| 🏠 [California Housing](https://github.com/rregalado1/boston-housing-ML-model) | Predicts housing prices using regression models | Linear Regression, XGBoost |
+| 🎮 [Sudoku Game](https://github.com/kevinc80/Sudoku_project31) | Interactive Sudoku game built with Python and Pygame | Python, Pygame |
 
 
 ---
