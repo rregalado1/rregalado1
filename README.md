@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Renan Regalado!
 
- I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, **Backend**, and **Data Science**.  
+ I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing** **Cybersecurity**, **Backend**, and **Data Science**.  
  I love solving real-world problems using technology and creating intelligent systems that learn from data.
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 -  Currently learning: **Neural Networks**, **Flask**, **React** and **Git/GitHub Automation**
 -  Interested in: AI, Data Analytics, Web Development, and Scientific Computing
--  Building projects with **Python, Pandas, Scikit-Learn, XGBoost, and TensorFlow**
+-  Building projects with **Python, Pandas, Pytorch, XGBoost, and TensorFlow**
 -  Goal: Become a Machine Learning Engineer or AI Developer
 
 ---
@@ -16,11 +16,12 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-`Python` `C++` `JavaScript` `HTML` `CSS` `MATLAB` `SQL`
+`Python` `C++` `JavaScript` `HTML` `CSS` `MATLAB` `SQL` `R` `Java` `Go`
 
 **Libraries & Tools:**  
-`NumPy` `Pandas` `Scikit-Learn` `Matplotlib` `XGBoost` `TensorFlow`  
-`Git` `VS Code` `Cursor` `PyCharm` `Jupyter Notebook`
+`NumPy` `Pandas` `Scikit-Learn` `Matplotlib` `XGBoost` `TensorFlow` `Pytorch` 
+`Git` `Claude` `Cursor` `PyCharm` `Jupyter Notebook` 
+`AWS -Cloud Computing Services`
 
 ---
 
