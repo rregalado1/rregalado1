@@ -1,6 +1,6 @@
 ## Hi, I'm Renan Regalado!
 
- I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing** **Cybersecurity**, and **Data Science**.  
+ I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, **Cybersecurity**, and **Data Science**.  
  I love solving real-world problems using technology and creating intelligent systems that learn from data.
 
 ---
