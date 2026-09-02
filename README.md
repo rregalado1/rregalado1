@@ -1,11 +1,11 @@
-# Hi, I'm Renan Regalado!
+## Hi, I'm Renan Regalado!
 
- I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing** **Cybersecurity**, **Backend**, and **Data Science**.  
+ I'm a third-year **Computer Science student** passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing** **Cybersecurity**, and **Data Science**.  
  I love solving real-world problems using technology and creating intelligent systems that learn from data.
 
 ---
 
-## About Me
+### About Me
 -  Currently learning: **Neural Networks**, **Flask**, **React** and **Git/GitHub Automation**
 -  Interested in: AI, Data Analytics, Web Development, and Scientific Computing
 -  Building projects with **Python, Pandas, Pytorch, XGBoost, and TensorFlow**
@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **Languages:**  
 `Python` `C++` `JavaScript` `HTML` `CSS` `MATLAB` `SQL` `R` `Java` `Go`
@@ -25,7 +25,7 @@
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
